@@ -7,7 +7,7 @@ import requests
 
 # ==========================================
 # INSIRA AQUI O NOVO URL DO GOOGLE APPS SCRIPT
-URL_WEB_APP = "COLE_AQUI_O_SEU_URL_DO_WEB_APP"
+URL_WEB_APP = "https://script.google.com/macros/s/AKfycbwjybf3ultmWohyhmv9mzm5sOS-Jy5j7APhqIjmWVt3BECMe328cvxP8y-gk_5EGvS6/exec"
 # ==========================================
 
 URLS_RSS = [
